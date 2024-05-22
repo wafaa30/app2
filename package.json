@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "expo-cli": "^4.0.17"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.9.26",
+    "expo": "^49.0.23",
+    "metro": "^0.80.6",
+    "metro-core": "^0.80.6",
+    "react-native-elements": "^3.4.3",
+    "react-native-maps": "^1.13.0",
+    "react-native-read-more-text": "^1.1.2",
+    "react-native-safe-area-context": "4.6.3",
+    "react-native-screens": "~3.22.0"
+  }
+}
